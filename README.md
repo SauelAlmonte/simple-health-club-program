@@ -102,7 +102,7 @@ The total charges are $60.00
 ## 👨‍💻 Author
 
 **Sauel Almonte**  
-[LinkedIn](https://www.linkedin.com/in/sauelalmonte) • [Portfolio](https://your-portfolio-link.com)
+[LinkedIn](https://www.linkedin.com/in/sauel-almonte) • [Portfolio](https://sauelalmonte.onrender.com)
 
 ## 📝 License
 
