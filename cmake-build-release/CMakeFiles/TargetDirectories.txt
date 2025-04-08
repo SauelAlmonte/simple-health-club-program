@@ -1,3 +1,0 @@
-/Users/ampl/JetBrainsAppProjects/CLionProjects/cPlusPrograms/simpleHealthClubProgram/cmake-build-release/CMakeFiles/simpleHealthClubProgram.dir
-/Users/ampl/JetBrainsAppProjects/CLionProjects/cPlusPrograms/simpleHealthClubProgram/cmake-build-release/CMakeFiles/edit_cache.dir
-/Users/ampl/JetBrainsAppProjects/CLionProjects/cPlusPrograms/simpleHealthClubProgram/cmake-build-release/CMakeFiles/rebuild_cache.dir
