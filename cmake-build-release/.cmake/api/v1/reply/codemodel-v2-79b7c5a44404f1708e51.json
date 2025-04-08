@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "simpleHealthClubProgram",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "simpleHealthClubProgram::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-simpleHealthClubProgram-Release-351f500f8d06fff7ee4e.json",
+					"name" : "simpleHealthClubProgram",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/ampl/JetBrainsAppProjects/CLionProjects/cPlusPrograms/simpleHealthClubProgram/cmake-build-release",
+		"source" : "/Users/ampl/JetBrainsAppProjects/CLionProjects/cPlusPrograms/simpleHealthClubProgram"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

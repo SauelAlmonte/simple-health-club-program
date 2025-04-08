@@ -1,0 +1,28 @@
+# CLion / CMake build folders
+cmake-build-*/
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+install_manifest.txt
+
+# Executables and object files
+*.out
+*.o
+*.obj
+*.exe
+*.a
+*.so
+*.dll
+
+# User-specific CLion files
+.idea/
+*.iml
+
+# VS Code project settings
+.vscode/
+
+# macOS system files
+.DS_Store
