@@ -70,7 +70,7 @@ The total charges are $60.00
 2. Navigate to the project directory:
 
     ```bash
-    cd health-club-membership
+    cd simple-health-club-program
     ```
 
 3. Compile the code:
